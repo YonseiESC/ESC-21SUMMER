@@ -18,6 +18,6 @@
 ## 학술부 세션 영상 링크
 
 ## 교재
-An Introduction to Statistical Learning(G. James, 외)
-The Elements of Statistical Learning(T. Hastie 외)
-Applied Multivariate Statistical Analysis(W. Hardle 외)
+An Introduction to Statistical Learning(G. James, 외)  
+The Elements of Statistical Learning(T. Hastie 외)  
+Applied Multivariate Statistical Analysis(W. Hardle 외)  
