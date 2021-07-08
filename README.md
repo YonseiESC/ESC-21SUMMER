@@ -14,6 +14,8 @@
 
 
 ## Session Youtube Link
+[ESC 2021-SUMMER] 210708 Orientation - Brief Intro. to this semester's materials
+https://www.youtube.com/watch?v=71_4UfPWKuE&feature=youtu.be
 
 ## 학술부 세션 영상 링크
 
