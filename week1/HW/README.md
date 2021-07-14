@@ -1,10 +1,11 @@
 **[1번 문제] ISL 3.5**
 
-<img src="https://user-images.githubusercontent.com/62366755/125549321-d559c1b8-9052-49f1-a3a2-54d772665e51.png" alt="one" width="200"/>
+<img src="https://user-images.githubusercontent.com/62366755/125549321-d559c1b8-9052-49f1-a3a2-54d772665e51.png" alt="one" width="600"/>
+
 -----------------------
 **[2번 문제] ESL 3.4**
 
-<img src="https://user-images.githubusercontent.com/62366755/125549341-ebfbda9b-7288-423a-8d5f-d74063511e79.png" alt="two" width="200"/>
+<img src="https://user-images.githubusercontent.com/62366755/125549341-ebfbda9b-7288-423a-8d5f-d74063511e79.png" alt="two" width="600"/>
 
 -----------------------
 **[3번 문제]: 직접 코딩해주세요!**
