@@ -1,14 +1,14 @@
 # 🔥 Week1 HomeWork 🔥
 
-Written by 오현도, 서경덕
-
+Written by 오현도, 서경덕. 
+학회원들을 생각하는 마음으로 엄선하였습니다.
 
 ## [1번 문제] ISL 3.5
 
 <img src="https://user-images.githubusercontent.com/62366755/125549321-d559c1b8-9052-49f1-a3a2-54d772665e51.png" alt="one" width="600"/>
 
 -----------------------
-## [2번 문제] ESL 3.4**
+## [2번 문제] ESL 3.4
 
 <img src="https://user-images.githubusercontent.com/62366755/125549341-ebfbda9b-7288-423a-8d5f-d74063511e79.png" alt="two" width="600"/>
 
