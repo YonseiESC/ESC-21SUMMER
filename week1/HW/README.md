@@ -1,14 +1,14 @@
-[1번 문제] ISL 3.5
+**[1번 문제] ISL 3.5**
 
-![image](https://user-images.githubusercontent.com/62366755/125549321-d559c1b8-9052-49f1-a3a2-54d772665e51.png)
-
------------------------
-[2번 문제] ESL 3.4
-
-![image](https://user-images.githubusercontent.com/62366755/125549341-ebfbda9b-7288-423a-8d5f-d74063511e79.png)
+![image](https://user-images.githubusercontent.com/62366755/125549321-d559c1b8-9052-49f1-a3a2-54d772665e51.png){: width='100', height='50'}
 
 -----------------------
-[3번 문제]: 직접 코딩해주세요!
+**[2번 문제] ESL 3.4**
+
+![image](https://user-images.githubusercontent.com/62366755/125549341-ebfbda9b-7288-423a-8d5f-d74063511e79.png){: width='100', height='50'}
+
+-----------------------
+**[3번 문제]: 직접 코딩해주세요!**
 ```{python}
 # Data Import
 import pandas as pd
