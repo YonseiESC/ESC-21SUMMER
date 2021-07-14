@@ -16,8 +16,10 @@ Written by 오현도, 서경덕.
 ## [3번 문제]: 직접 코딩해주세요!
 ```{python}
 # Data Import
+import ssl
 import pandas as pd
-data = pd.read_csv('week2.csv')
+ssl._create_default_https_context = ssl._create_unverified_context #Github에서 데이터를 바로 불러오도록 하느 세팅입니다. 해당 코드 무시하고 데이터 받아서 쓰셔도 됩니다!
+data = pd.read_csv('https://github.com/YonseiESC/ESC-21SUMMER/blob/main/week1/HW/week1_data.csv?raw=True')
 y = data['mpg']
 x = data.drop(['mpg'],axis=1)
 
