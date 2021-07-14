@@ -9,7 +9,7 @@
 
 -----------------------
 [3번 문제]: 직접 코딩해주세요!
-
+```{python}
 # Data Import
 import pandas as pd
 data = pd.read_csv('week2.csv')
@@ -23,3 +23,4 @@ def YourOwnRegression(x,y):
 
 # 결과물 반환
 YourOwnRegression(x,y)
+```
