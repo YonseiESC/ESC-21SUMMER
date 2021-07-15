@@ -24,7 +24,7 @@ y = data['mpg']
 x = data.drop(['mpg'],axis=1)
 
 import numpy as np
-# Regression, numpy 모듈만을 이용해주세요.
+# numpy 모듈만을 이용해주세요.
 def YourOwnRegression(x,y):
     # beta와 y의 추정값을 반환하는 함수를 만들어주세요.
 
