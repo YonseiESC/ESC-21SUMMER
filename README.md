@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=47-45Q3bMGM
 
 
 ## 학술부 세션 영상 링크
-[ESC 2021-SUMMER 학술부]  210711 week1 - Linear Regression  
+[ESC 2021-SUMMER 학술부]  210713 Week1 - Linear Regression  
 https://www.youtube.com/watch?v=UG8meh152G4  
 
 
