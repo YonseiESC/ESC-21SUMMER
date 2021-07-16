@@ -15,9 +15,16 @@
 
 ## Session Youtube Link
 [ESC 2021-SUMMER] 210708 Orientation - Brief Intro. to this semester's materials  
-https://www.youtube.com/watch?v=71_4UfPWKuE&feature=youtu.be  
+https://www.youtube.com/watch?v=71_4UfPWKuE
+
+[ESC 2021-SUMMER] 210715 Week1 - Linear Regression
+https://www.youtube.com/watch?v=47-45Q3bMGM
+
 
 ## 학술부 세션 영상 링크
+[ESC 2021-SUMMER 학술부]  210711 week1 -
+https://www.youtube.com/watch?v=UG8meh152G4  
+
 
 ## 교재
 An Introduction to Statistical Learning(G. James, 외)  
