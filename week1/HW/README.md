@@ -13,7 +13,7 @@ Written by 오현도, 서경덕.
 <img src="https://user-images.githubusercontent.com/62366755/125549341-ebfbda9b-7288-423a-8d5f-d74063511e79.png" alt="two" width="600"/>
 
 -----------------------
-## [3번 문제]: 직접 코딩해주세요!
+## [3번 문제]: 직접 코딩해주세요!(전처리 하나 하셔야합니당!)
 ```{python}
 # Data Import
 import ssl
