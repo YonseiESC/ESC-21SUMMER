@@ -18,8 +18,10 @@
 https://www.youtube.com/watch?v=71_4UfPWKuE
 
 [ESC 2021-SUMMER] 210715 Week1 - Linear Regression  
-https://www.youtube.com/watch?v=47-45Q3bMGM
+https://www.youtube.com/watch?v=47-45Q3bMGM  
 
+[ESC 2021-SUMMER] 210722 Week2 - Variable Selection  
+https://youtu.be/6PAEmiUPxLQ  
 
 ## 학술부 세션 영상 링크
 [ESC 2021-SUMMER 학술부]  210713 Week1 - Linear Regression  
