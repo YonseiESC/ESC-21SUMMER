@@ -1,5 +1,5 @@
 
-# Week2 HomeWork 
+# Week2 Homework 
 
 ## [1번 문제] Forward Stepwise Selection
 
