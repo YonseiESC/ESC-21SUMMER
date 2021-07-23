@@ -27,6 +27,8 @@ https://youtu.be/6PAEmiUPxLQ
 [ESC 2021-SUMMER 학술부]  210713 Week1 - Linear Regression  
 https://www.youtube.com/watch?v=UG8meh152G4  
 
+[ESC 2021-SUMMER 학술부]  210720 Week2 - Variable Selection  
+https://www.youtube.com/watch?v=iWXiskAfvEQ
 
 ## 교재
 An Introduction to Statistical Learning(G. James, 외)  
