@@ -28,7 +28,10 @@ https://youtu.be/6PAEmiUPxLQ
 https://www.youtube.com/watch?v=UG8meh152G4  
 
 [ESC 2021-SUMMER 학술부]  210720 Week2 - Variable Selection  
-https://www.youtube.com/watch?v=iWXiskAfvEQ
+https://www.youtube.com/watch?v=iWXiskAfvEQ  
+
+[ESC 2021-SUMMER 학술부]  210727 Week3 - Multicollinearity & Lidge, Rasso, etc.  
+https://www.youtube.com/watch?v=PhN11pHIVZM  
 
 ## 교재
 An Introduction to Statistical Learning(G. James, 외)  
