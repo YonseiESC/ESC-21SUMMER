@@ -23,6 +23,10 @@ https://www.youtube.com/watch?v=47-45Q3bMGM
 [ESC 2021-SUMMER] 210722 Week2 - Variable Selection  
 https://youtu.be/6PAEmiUPxLQ  
 
+[ESC 2021-SUMMER] 210729 Week3 - Multicollinearity & Lidge, Rasso  
+https://youtu.be/EWpqaoVoBPo
+
+
 ## 학술부 세션 영상 링크
 [ESC 2021-SUMMER 학술부]  210713 Week1 - Linear Regression  
 https://www.youtube.com/watch?v=UG8meh152G4  
@@ -30,7 +34,7 @@ https://www.youtube.com/watch?v=UG8meh152G4
 [ESC 2021-SUMMER 학술부]  210720 Week2 - Variable Selection  
 https://www.youtube.com/watch?v=iWXiskAfvEQ  
 
-[ESC 2021-SUMMER 학술부]  210727 Week3 - Multicollinearity & Lidge, Rasso, etc.  
+[ESC 2021-SUMMER 학술부]  210727 Week3 - Multicollinearity & Lidge, Rasso, etc  
 https://www.youtube.com/watch?v=PhN11pHIVZM  
 
 ## 교재
