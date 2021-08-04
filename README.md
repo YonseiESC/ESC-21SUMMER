@@ -8,7 +8,7 @@
 |Week 1<br/>(7/15, 7/17)| Linear Regression (ISL 3.2, 3.3 ESL 3.1, 3.2)<br/> 발제자 : 서경덕, 오현도 |Alumni 연사특강|
 |Week 2<br/>(7/22)| Variable Selection (ISL 3.3, 6.1 ESL 3.3)<br/> 발제자 : 고정민, 이규민 |TBD|
 |Week 3<br/>(7/29)| Multicollinearity & Ridge, LASSO (ISL 6.2 ESL 3.4)<br/> 발제자 : 서상수, 이청파 |TBD|
-|Week 4<br/>(8/5)| Principal Component Analysis (ISL 6.3 ESL 3.5 AMSA 11)<br/> 발제자 : 김세정, 김수연 |TBD|
+|Week 4<br/>(8/5)| Principal Component Analysis (ISL 6.3 ESL 3.5 AMSA 11)<br/> 발제자 : 김세정, 김수연 |이후 빅콘 준비로 대체|
 |Week 5<br/>(8/12)| Factor Analysis (ESL 14.7 AMSA 12)<br/> 발제자 : 이재현, 신혜연 |TBD|
 |Week 6<br/>(8/19)| Linear Discriminant Analysis(ISL 4.4 ESL 4.3 AMSA 13)<br/> 발제자 : 박상용, 안현준 |TBD|
 
