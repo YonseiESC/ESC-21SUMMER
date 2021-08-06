@@ -26,6 +26,9 @@ https://youtu.be/6PAEmiUPxLQ
 [ESC 2021-SUMMER] 210729 Week3 - Multicollinearity & Lidge, Rasso  
 https://youtu.be/EWpqaoVoBPo  
 
+[ESC 2021-SUMMER] 210805 Week4 - PCA  
+https://www.youtube.com/watch?v=sDlcP1UIPz4  
+
 
 ## 학술부 세션 영상 링크
 [ESC 2021-SUMMER 학술부]  210713 Week1 - Linear Regression  
@@ -36,6 +39,9 @@ https://www.youtube.com/watch?v=iWXiskAfvEQ
 
 [ESC 2021-SUMMER 학술부]  210727 Week3 - Multicollinearity & Lidge, Rasso  
 https://www.youtube.com/watch?v=PhN11pHIVZM  
+
+[ESC 2021-SUMMER 학술부]  210805 Week4 - PCA  
+https://www.youtube.com/watch?v=SSzranNAkG8  
 
 ## 교재
 An Introduction to Statistical Learning(G. James, 외)  
