@@ -30,7 +30,7 @@ https://youtu.be/EWpqaoVoBPo
 https://www.youtube.com/watch?v=sDlcP1UIPz4  
 
 [ESC 2021-SUMMER] 210812 Week5 - FA  
-
+https://youtu.be/z0_Q6Mkl194  
 
 
 ## 학술부 세션 영상 링크
