@@ -9,7 +9,7 @@
 |Week 2<br/>(7/22)| Variable Selection (ISL 3.3, 6.1 ESL 3.3)<br/> 발제자 : 고정민, 이규민 ||
 |Week 3<br/>(7/29)| Multicollinearity & Ridge, LASSO (ISL 6.2 ESL 3.4)<br/> 발제자 : 서상수, 이청파 ||
 |Week 4<br/>(8/5)| Principal Component Analysis (ISL 6.3 ESL 3.5 AMSA 11)<br/> 발제자 : 김세정, 김수연 |이후 빅콘 준비로 대체|
-|Week 5<br/>(8/12)| Factor Analysis (ESL 14.7 AMSA 12)<br/> 발제자 : 이재현, 신혜연 ||
+|Week 5<br/>(8/12)| Factor Analysis (ESL 14.7 AMSA 9)<br/> 발제자 : 이재현, 신혜연 ||
 |Week 6<br/>(8/19)| Linear Discriminant Analysis(ISL 4.4 ESL 4.3 AMSA 13)<br/> 발제자 : 박상용, 안현준 ||
 
 
