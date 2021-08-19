@@ -32,6 +32,9 @@ https://www.youtube.com/watch?v=sDlcP1UIPz4
 [ESC 2021-SUMMER] 210812 Week5 - FA  
 https://youtu.be/z0_Q6Mkl194  
 
+[ESC 2021-SUMMER] 210819 Week6 - LDA  
+https://youtu.be/o3tjpVH86H0
+
 
 ## 학술부 세션 영상 링크
 [ESC 2021-SUMMER 학술부]  210713 Week1 - Linear Regression  
