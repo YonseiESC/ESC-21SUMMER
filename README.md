@@ -52,6 +52,10 @@ https://www.youtube.com/watch?v=SSzranNAkG8
 [ESC 2021-SUMMER 학술부]  210810 Week5 - FA  
 https://youtu.be/--eOmpvU2eo  
 
+## 빅콘테스트 발표 링크  
+https://youtu.be/5qPdzYGRVmc  
+
+
 ## 교재
 An Introduction to Statistical Learning(G. James, 외)  
 The Elements of Statistical Learning(T. Hastie 외)  
