@@ -53,6 +53,7 @@ https://www.youtube.com/watch?v=SSzranNAkG8
 https://youtu.be/--eOmpvU2eo  
 
 ## 빅콘테스트 발표 링크  
+[2021 Bigcon] 중간점검  
 https://youtu.be/5qPdzYGRVmc  
 
 
