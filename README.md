@@ -56,6 +56,8 @@ https://youtu.be/--eOmpvU2eo
 [2021 Bigcontest] 중간점검  
 https://youtu.be/5qPdzYGRVmc  
 
+[2021 Bigcontest] 파이널발표  
+https://youtu.be/N8XBp6-u5sQ
 
 ## 교재
 An Introduction to Statistical Learning(G. James, 외)  
